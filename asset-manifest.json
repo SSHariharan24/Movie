@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.com/SSHariharan24/Movie.git/static/css/main.ccfd3975.css",
-    "main.js": "/github.com/SSHariharan24/Movie.git/static/js/main.8bf73742.js",
-    "static/js/453.36e3b7fa.chunk.js": "/github.com/SSHariharan24/Movie.git/static/js/453.36e3b7fa.chunk.js",
-    "index.html": "/github.com/SSHariharan24/Movie.git/index.html",
-    "static/media/search.svg": "/github.com/SSHariharan24/Movie.git/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
-    "main.ccfd3975.css.map": "/github.com/SSHariharan24/Movie.git/static/css/main.ccfd3975.css.map",
-    "main.8bf73742.js.map": "/github.com/SSHariharan24/Movie.git/static/js/main.8bf73742.js.map",
-    "453.36e3b7fa.chunk.js.map": "/github.com/SSHariharan24/Movie.git/static/js/453.36e3b7fa.chunk.js.map"
+    "main.css": "/Movie/static/css/main.ccfd3975.css",
+    "main.js": "/Movie/static/js/main.cd9529d6.js",
+    "static/js/453.36e3b7fa.chunk.js": "/Movie/static/js/453.36e3b7fa.chunk.js",
+    "index.html": "/Movie/index.html",
+    "static/media/search.svg": "/Movie/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.ccfd3975.css.map": "/Movie/static/css/main.ccfd3975.css.map",
+    "main.cd9529d6.js.map": "/Movie/static/js/main.cd9529d6.js.map",
+    "453.36e3b7fa.chunk.js.map": "/Movie/static/js/453.36e3b7fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccfd3975.css",
-    "static/js/main.8bf73742.js"
+    "static/js/main.cd9529d6.js"
   ]
 }
